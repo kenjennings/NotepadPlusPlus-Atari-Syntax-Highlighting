@@ -1,8 +1,10 @@
 # NotepadPlusPlus-Atari-Syntax-Highlighting
-Notepad++ exported config XML for Atari 8-bit languages.
+This is Notepad++ exported config XML for Atari 8-bit languages.
 
-6502 Assembly for atasm
+Languages:
 
-Atari BASIC
+- 6502 Assembly for atasm
 
-OSS BASIC XL
+- Atari BASIC
+
+- OSS BASIC XL
