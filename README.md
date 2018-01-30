@@ -19,4 +19,4 @@ Download the three XML files to your system.
 1. Select a syntax file.
 1. You should need to restart Notepad++.
 
-While editing a file go to the *Language* and choose the name of the syntax format to start syntax hilighting.
+While editing a file go to the *Language* menu item and choose the name of the syntax format to start syntax hilighting.
